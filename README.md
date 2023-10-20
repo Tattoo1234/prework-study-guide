@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - As a new student entering Coding Bootcamp I have a heartfelt duty to share my experiences with other new students and developers.
 - This project was built to help new students access important study recommendations.
 - The study guide organizes useful study recommendations together at one spot for easy referencing and revisiting. 
