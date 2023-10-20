@@ -1,4 +1,5 @@
-# <Prework Study Guide Official Anarchy>
+
+# Prework Study Guide Official Anarchy
 
 ## Description
 
