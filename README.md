@@ -3,7 +3,7 @@
 
 ## Description
 
-- As a new student entering Coding Bootcamp I have a heartfelt duty to share my experiences with other new students and developers.
+- As a new student entering Coding Bootcamp I want to share my experiences with other new students and developers.
 - This project was built to help new students access important study recommendations.
 - The study guide organizes useful study recommendations together at one spot for easy referencing and revisiting. 
 - Building this site was an excellent oportuntity to learn HTML, CSS, Git, JavaScript, and was also a great intro to the Developer Community and Profession.
